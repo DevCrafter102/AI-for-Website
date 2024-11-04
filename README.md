@@ -44,5 +44,8 @@ I was responsible for:
 - **Testing and Debugging**: Conducted comprehensive testing to ensure robustness and resolve any detected issues for a smoother user experience.
 
 ## Snapshots
+![dashboard 2](https://github.com/user-attachments/assets/6e7afa41-3e05-407d-96bc-5acc9ea86a99)
+![dashboard1](https://github.com/user-attachments/assets/5bd6afae-6250-455a-b019-3984934234de)
+
 
 
